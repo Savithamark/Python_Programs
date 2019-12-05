@@ -1,5 +1,0 @@
-print "Hello WOrld!"
-print "Hello again"
-print "I am happy"
-print "are you ok?"
-print "you cant start your work"
